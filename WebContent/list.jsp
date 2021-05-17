@@ -10,6 +10,9 @@
 	<meta charset="ISO-8859-1">
 	<title>Listagem de carros</title>
 </head>
+	<header style="width:100%;height:60px;background-color:black;text-align:center;">
+		<label style="font-size:20px;color:white;">BANNER</label>
+	</header>
 	<body>
 		<div class="topnav">
 		 <a  href="index.jsp">Novo Jogo</a>
