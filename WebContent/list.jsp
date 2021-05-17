@@ -11,6 +11,11 @@
 	<title>Listagem de carros</title>
 </head>
 	<body>
+		<div class="topnav">
+		 <a  href="index.jsp">Novo Jogo</a>
+		 <a href="BetController">Meus Jogos</a>
+		 <a href="about.jsp">Sobre</a>
+		</div>
 		<div>
 			<table class="table">
 			<thead>
