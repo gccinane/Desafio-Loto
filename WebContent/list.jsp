@@ -10,15 +10,16 @@
 	<meta charset="ISO-8859-1">
 	<title>Listagem de carros</title>
 </head>
-	<header style="width:100%;height:60px;background-color:black;text-align:center;">
-		<label style="font-size:20px;color:white;">BANNER</label>
-	</header>
 	<body>
-		<div class="topnav">
-		 <a  href="index.jsp">Novo Jogo</a>
-		 <a href="BetController">Meus Jogos</a>
-		 <a href="about.jsp">Sobre</a>
-		</div>
+		<header style="width:100%;height:200px;background-color:black;text-align:center;">
+		<img src="https://www.intersena.com.br/_common/img/artigos/Banner%20-%20Quina_Prancheta%201.png" width="100%" height="100%"/>
+	</header>
+	
+	<div style="justify-content: space-between;display:flex; margin: 50px;">
+	 <a  href="index.jsp">NOVO JOGO</a>
+	 <a href="BetController">MEUS JOGOS</a>
+	 <a href="about.jsp">SOBRE</a>
+	</div>
 		<div>
 			<table class="table">
 			<thead>
